@@ -1,0 +1,185 @@
+1591457907962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofilefcmS59"
+[Parent 3652, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 743
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591457920842	Marionette	INFO	Listening on port 49269
+1591457921966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1591457927675	Marionette	INFO	Stopped listening on port 49269
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591458066402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofile0Q0XCG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458068860	Marionette	INFO	Listening on port 49343
+1591458069152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458098423	Marionette	INFO	Stopped listening on port 49343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591458197436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileRdce4T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458200777	Marionette	INFO	Listening on port 49446
+1591458201253	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591458225203	Marionette	INFO	Stopped listening on port 49446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591812938420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofile3Y944j"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591812952869	Marionette	INFO	Listening on port 49342
+1591812954096	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591813056024	Marionette	INFO	Stopped listening on port 49342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6560, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591813267051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileqjFXwa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813270527	Marionette	INFO	Listening on port 49572
+1591813270868	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1591813312184	Marionette	INFO	Stopped listening on port 49572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591813321902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofilegFFvJa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813325650	Marionette	INFO	Listening on port 49623
+1591813325736	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591813484568	Marionette	INFO	Stopped listening on port 49623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591813528169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileRojU0U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813531608	Marionette	INFO	Listening on port 49791
+1591813531990	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1591813589674	Marionette	INFO	Stopped listening on port 49791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591813594486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileU7Qa1t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813597848	Marionette	INFO	Listening on port 49835
+1591813598301	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+[Parent 8980, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1591813650509	Marionette	INFO	Stopped listening on port 49835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591813703831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofile3JS0A2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813707560	Marionette	INFO	Listening on port 49882
+1591813707699	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591813751361	Marionette	INFO	Stopped listening on port 49882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591813770647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileQYcXQo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813773946	Marionette	INFO	Listening on port 49928
+1591813773977	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1591813825774	Marionette	INFO	Stopped listening on port 49928
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591813864106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofilezD01vo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813867962	Marionette	INFO	Listening on port 49970
+1591813868422	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591813888793	Marionette	INFO	Stopped listening on port 49970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591813977569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileldsShy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591813981299	Marionette	INFO	Listening on port 50020
+1591813981438	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591814105261	Marionette	INFO	Stopped listening on port 50020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591814111027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileYaEHpH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591814114543	Marionette	INFO	Listening on port 50081
+1591814114888	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+1591814337084	Marionette	INFO	Stopped listening on port 50081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1591814347855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileHgLDvY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591814351345	Marionette	INFO	Listening on port 50147
+1591814351702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591814399237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofilerHwfoN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 115: Error: Unknown callback
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 9712, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591814412374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JJ\\AppData\\Local\\Temp\\rust_mozprofileplM1aj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591814415820	Marionette	INFO	Listening on port 50222
+1591814416218	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(100,29999) Code: 0x80070057 format 0
+JavaScript warning: https://worldwide.espacenet.com/6_3_0/cpc/js/cpcbrowser.min.js, line 16: unreachable code after return statement
+1591814426157	Marionette	INFO	Stopped listening on port 50222
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
